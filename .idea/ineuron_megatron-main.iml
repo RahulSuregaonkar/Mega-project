@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="PYTHON_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.6 (ineuron_megatron-main) (2)" jdkType="Python SDK" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="PyDocumentationSettings">
-    <option name="format" value="NUMPY" />
-    <option name="myDocStringFormat" value="NumPy" />
-  </component>
-</module>
+version https://git-lfs.github.com/spec/v1
+oid sha256:60228898adede197c20607e28122daf0533f17abacf436796fe113d45cb07f4b
+size 513

@@ -1,14 +1,3 @@
-from pymongo import MongoClient
-
-client = MongoClient(
-    "mongodb+srv://megatronLog:hr2SC3S5Wcx2uip3@cluster0.3oipc.mongodb.net/megatronUser?retryWrites=true&w=majority")
-db = client.megatronUser
-
-client_admin = MongoClient(
-    "mongodb+srv://megatronUser:megatronPass@dashboard-cluster.fbim5.mongodb.net/megatronDB?retryWrites=true&w=majority")
-db_admin = client_admin.megatronDB
-
-class mongo_connection:
-
-    def db_connection(self):
-        return db, db_admin
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b6dc673d652acdde987f9aa318f72f34b32891820fe95d0f54b37eb0b23c1e5
+size 479
