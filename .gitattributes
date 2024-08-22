@@ -2,3 +2,4 @@ version https://git-lfs.github.com/spec/v1
 oid sha256:c368f41afafb62c17d3b8922c3c39d33397692e070e079f0c8e64b773b0daf7b
 size 212
 *.h5 filter=lfs diff=lfs merge=lfs -text
+model/distilbert_model_40Epochs/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
